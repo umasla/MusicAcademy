@@ -6512,7 +6512,11 @@ Transform:
   m_Children:
   - {fileID: 1416344949}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 4
+=======
+  m_RootOrder: 3
+>>>>>>> parent of 132e180 (2 sınıf oluşturuldu)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &499913470 stripped
 Transform:
@@ -8833,7 +8837,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 3
+=======
+  m_RootOrder: 2
+>>>>>>> parent of 132e180 (2 sınıf oluşturuldu)
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1001 &706302275
 PrefabInstance:
@@ -15277,7 +15285,11 @@ Transform:
   - {fileID: 381420753}
   - {fileID: 1421491798}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 6
+=======
+  m_RootOrder: 5
+>>>>>>> parent of 132e180 (2 sınıf oluşturuldu)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1259400142
 PrefabInstance:
@@ -19479,7 +19491,11 @@ Transform:
   - {fileID: 684707594}
   - {fileID: 928694543}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 5
+=======
+  m_RootOrder: 4
+>>>>>>> parent of 132e180 (2 sınıf oluşturuldu)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1633213295
 PrefabInstance:
@@ -26259,7 +26275,11 @@ Transform:
   - {fileID: 7464887382718418240}
   - {fileID: 1193451971}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 2
+=======
+  m_RootOrder: 1
+>>>>>>> parent of 132e180 (2 sınıf oluşturuldu)
   m_LocalEulerAnglesHint: {x: 0, y: -12.145, z: 0}
 --- !u!1 &3198370640592684230
 GameObject:
