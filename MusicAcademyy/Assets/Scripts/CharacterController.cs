@@ -8,6 +8,7 @@ public class CharacterController : MonoBehaviour
 {
     public float moveSpeed = 1f;
     public float runSpeed = 2f;
+    public float rotationSpeed = 10.0f;
     private bool run = false;
     private Animator _animator;
     void Start()
