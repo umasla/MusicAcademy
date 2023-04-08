@@ -9591,7 +9591,7 @@ GameObject:
   - component: {fileID: 1416344949}
   m_Layer: 0
   m_Name: "D\u0131sCephe"
-  m_TagString: Untagged
+  m_TagString: DisCephe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10963,7 +10963,7 @@ GameObject:
   - component: {fileID: 1626527676}
   m_Layer: 0
   m_Name: "\u0130cDuvarlar"
-  m_TagString: Untagged
+  m_TagString: "\u0130cCephe"
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
