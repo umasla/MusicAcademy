@@ -6,6 +6,7 @@ TagManager:
   tags:
   - DisCephe
   - "\u0130cCephe"
+  - player
   layers:
   - Default
   - TransparentFX
