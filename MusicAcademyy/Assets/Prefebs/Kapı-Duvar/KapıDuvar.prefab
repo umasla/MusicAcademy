@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 23940762672994214}
   - component: {fileID: -8460862983445949728}
   m_Layer: 0
-  m_Name: wall4 (2)
+  m_Name: "Kap\u0131Duvar"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
