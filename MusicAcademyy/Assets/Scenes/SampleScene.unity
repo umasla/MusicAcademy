@@ -6518,6 +6518,7 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 4
 =======
   m_RootOrder: 3
@@ -6525,6 +6526,9 @@ Transform:
 =======
   m_RootOrder: 3
 >>>>>>> f909bde37440f041e8af5b1b61d4ed5e3c7f7dbc
+=======
+  m_RootOrder: 3
+>>>>>>> parent of b3343db (yunan heykeli eklendi)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &499913470 stripped
 Transform:
@@ -8848,6 +8852,7 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 3
 =======
   m_RootOrder: 2
@@ -8855,6 +8860,9 @@ Transform:
 =======
   m_RootOrder: 2
 >>>>>>> f909bde37440f041e8af5b1b61d4ed5e3c7f7dbc
+=======
+  m_RootOrder: 2
+>>>>>>> parent of b3343db (yunan heykeli eklendi)
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1001 &706302275
 PrefabInstance:
@@ -15302,6 +15310,7 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 6
 =======
   m_RootOrder: 5
@@ -15309,6 +15318,9 @@ Transform:
 =======
   m_RootOrder: 5
 >>>>>>> f909bde37440f041e8af5b1b61d4ed5e3c7f7dbc
+=======
+  m_RootOrder: 5
+>>>>>>> parent of b3343db (yunan heykeli eklendi)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1259400142
 PrefabInstance:
@@ -19516,6 +19528,7 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 5
 =======
   m_RootOrder: 4
@@ -19523,6 +19536,9 @@ Transform:
 =======
   m_RootOrder: 4
 >>>>>>> f909bde37440f041e8af5b1b61d4ed5e3c7f7dbc
+=======
+  m_RootOrder: 4
+>>>>>>> parent of b3343db (yunan heykeli eklendi)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1633213295
 PrefabInstance:
@@ -26259,6 +26275,7 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 2
 =======
   m_RootOrder: 1
@@ -26266,6 +26283,9 @@ Transform:
 =======
   m_RootOrder: 1
 >>>>>>> f909bde37440f041e8af5b1b61d4ed5e3c7f7dbc
+=======
+  m_RootOrder: 1
+>>>>>>> parent of b3343db (yunan heykeli eklendi)
   m_LocalEulerAnglesHint: {x: 0, y: -12.145, z: 0}
 --- !u!1 &3198370640592684230
 GameObject:
