@@ -3,12 +3,18 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
+using UnityEngine.UIElements;
 
 public class CharacterController : MonoBehaviour
 {
     public float moveSpeed = 1.0f;
     public float runSpeed = 5.0f;
     private bool run = false;
+
+    public Transform cameraholder;
+    public float mouseSensitivity = 2f;
+    public float upLimit = -50f;
+    public float downLimit = 50f;
     
     private Animator _animator;
     
@@ -46,5 +52,21 @@ public class CharacterController : MonoBehaviour
         {
             _animator.SetFloat("speed", 0.0f);
         }
-    } 
+
+        rotate();
+    }
+
+    public void rotate()
+    {
+        float horizontalRotation = Input.GetAxis("Mouse X");
+        float verticalRotation = Input.GetAxis("Mouse Y");
+        
+        transform.Rotate(0,horizontalRotation*mouseSensitivity,0f);
+        cameraholder.Rotate(-verticalRotation * mouseSensitivity,0,0);
+
+        Vector3 currentRotation = cameraholder.localEulerAngles;
+        if (currentRotation.x > 180) currentRotation.x -= 360;
+        currentRotation.x = Mathf.Clamp(currentRotation.x, upLimit, downLimit);
+        cameraholder.localRotation = Quaternion.Euler(currentRotation);
+    }
 }
