@@ -6,15 +6,15 @@ using UnityEngine;
 public class notes : MonoBehaviour
 {
     public float notaSayisi = 0.0f;
-    private AudioSource _audioSource;
+    public AudioSource _audioSource;
     public AudioClip _AudioClip;
 
-    private void Start()
+    public void Start()
     {
         _audioSource = GetComponent<AudioSource>();
     }
 
-    private void OnTriggerEnter(Collider other)
+    public void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.CompareTag("player"))
         {
