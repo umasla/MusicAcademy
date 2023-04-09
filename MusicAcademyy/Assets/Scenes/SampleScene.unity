@@ -58765,7 +58765,7 @@ MonoBehaviour:
   moveSpeed: 5
   runSpeed: 13
   cameraholder: {fileID: 0}
-  mouseSensitivity: 4
+  mouseSensitivity: 7
   upLimit: -50
   downLimit: 50
 --- !u!54 &3154992861405277655
